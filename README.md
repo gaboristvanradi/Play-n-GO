@@ -1,4 +1,4 @@
-# Play-n-GO
+# Play-n-GO Test Task
 2D Space shooter game implemented using PixiJS.
 
 Easiest way to start the project is by using the Live Server plugin in Visual Studio Code.
